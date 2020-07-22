@@ -1,2 +1,2 @@
 # LeetCodings
-Recording for learning leetcode.
+用于记录个人学习Leetcode算法笔记和总结。
